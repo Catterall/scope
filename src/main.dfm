@@ -1,4 +1,4 @@
-object frmName: TfrmName
+object frmMain: TfrmMain
   Left = 0
   Top = 0
   Caption = 'Scope'

@@ -9,7 +9,7 @@ uses
   Vcl.StdStyleActnCtrls;
 
 type
-  TfrmName = class(TForm)
+  TfrmMain = class(TForm)
     ammb: TActionMainMenuBar;
     actList: TActionList;
   private
@@ -19,7 +19,7 @@ type
   end;
 
 var
-  frmName: TfrmName;
+  frmMain: TfrmMain;
 
 implementation
 
