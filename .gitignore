@@ -2,3 +2,6 @@
 internal
 src/Scope.res
 src/dcu
+src/Scope.identcache
+
+src/Scope.dproj.local
